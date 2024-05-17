@@ -4,17 +4,18 @@
     <span>Capivara Siade</span>
 </h1>
 
-<img align="right" height="250" src="https://github.com/SiadeBreak/Capivara-Siade/assets/53356154/f8db0e4c-7a04-4d9e-9c0a-e7b4d59d0f41">
+<img align="right" height="240" src="https://github.com/SiadeBreak/Capivara-Siade/assets/53356154/f8db0e4c-7a04-4d9e-9c0a-e7b4d59d0f41">
 
 <p align="justify" >Engineering Student at UFG, pursuing a degree in Computer Engineering. Passionate about software development and constantly expanding my knowledge in Artificial Intelligence.
 <br>
-    Driven by the power of hate and a desire for a more remote and flexible lifestyle.
-    
+<br>
+<p align="justify" >Driven by the power of hate and a desire for a more remote and flexible lifestyle.
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
 -->
-
+<br>
+    
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lima-siade-a6aa672ba/)
