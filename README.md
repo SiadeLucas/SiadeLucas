@@ -1,7 +1,7 @@
 <h1>
-    <a href="https://github.com/SiadeBreak">
+    <a href="https://github.com/SiadeLucas">
      <img align="center" width="56px" src="https://github.com/SiadeBreak/Capivara-Siade/assets/53356154/e068fdb7-9909-4726-bd68-ae925293db80"></a>
-    <span>Capivara Siade</span>
+    <span>Lucas Siade</span>
 </h1>
 
 <img align="right" height="240" src="https://github.com/SiadeBreak/Capivara-Siade/assets/53356154/f8db0e4c-7a04-4d9e-9c0a-e7b4d59d0f41">
@@ -18,9 +18,9 @@
     
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lima-siade-a6aa672ba/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siadelucas/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siadelucas/)
-[![League of Legends](https://img.shields.io/badge/-League%20of%20Legends-000?style=for-the-badge&logo=leagueoflegends&logoColor=white)](https://www.op.gg/summoners/br/Capivara%20Siade-VASCO)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/siadelucas/)
 
 
 ### GitHub Stats
