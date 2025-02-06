@@ -16,6 +16,10 @@
 -->
 <br>
     
+### About me
+
+[![Portfólio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://siadelucas.github.io/Portfolio/)
+
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siadelucas/)
